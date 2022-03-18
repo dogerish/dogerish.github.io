@@ -1,0 +1,3 @@
+[submodule "vaccines-please"]
+	path = vaccines-please
+	url = https://github.com/dogerish/vaccines-please
